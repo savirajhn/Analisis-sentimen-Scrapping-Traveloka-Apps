@@ -1,0 +1,16 @@
+google-play-scraper==1.2.2
+pandas==2.0.3
+numpy==1.25.2
+matplotlib==3.7.1
+seaborn==0.12.2
+nltk==3.8.1
+sastrawi==1.0.1
+wordcloud==1.8.2.2
+textblob==0.17.1
+emoji==2.2.0
+scikit-learn==1.2.2
+xgboost==1.7.2
+lightgbm==4.0.0
+transformers==4.31.0
+gensim==3.8.3
+scipy==1.11.1
